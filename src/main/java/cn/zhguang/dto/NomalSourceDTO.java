@@ -164,7 +164,7 @@ public class NomalSourceDTO implements Serializable {
 
 	private Character bigCharValue = 'A';
 
-	private Byte bigByteValue = Byte.valueOf("Byte");
+	private Byte bigByteValue = Byte.MAX_VALUE;
 
 	private Short bigShortValue = 4;
 
